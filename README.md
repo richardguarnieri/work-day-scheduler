@@ -24,4 +24,4 @@ Link to the deployed application: https://richardguarnieri.github.io/work-day-sc
 
 ## Application Glimpse
 ![Portfolio Application](./img/wdsImage.png)
-<center>Brief look at the application</center>
+<p align='center'>Brief look at the application</p>
