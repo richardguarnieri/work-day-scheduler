@@ -31,7 +31,7 @@ Twitter Username: `ric_guarnieri`
         <img alt="GitHub issues" src="https://img.shields.io/github/issues/richardguarnieri/work-day-scheduler?style=for-the-badge">
     <a>
      <a href="https://github.com/richardguarnieri/work-day-scheduler/blob/main/LICENSE">
-        <img alt="GitHub license" src="https://img.shields.io/github/license/richardguarnieri/work-day-scheduler?style=for-the-badge">
+        <img alt="GitHub license" src="https://img.shields.io/github/license/richardguarnieri/work-day-scheduler?label=license&style=for-the-badge">
     <a>
      <a href="https://github.com/richardguarnieri/work-day-scheduler/commits/main">
         <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/richardguarnieri/work-day-scheduler?style=for-the-badge">
@@ -88,7 +88,7 @@ In this deployed responsive application you will find a simple calendar applicat
 The application runs in the browser and feature dynamically updated HTML and CSS powered by **native** JavaScript.
 
 
-<p align="right"> | <a href="#home">Return to Home</a></p>
+<p align="right"> - <a href="#home">Return to Home</a></p>
 
 ### Technology Stack
 
@@ -96,7 +96,7 @@ The application runs in the browser and feature dynamically updated HTML and CSS
 * [CSS](https://www.w3.org/TR/CSS/#css)
 * [JavaScript](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
-<p align="right"> | <a href="#home">Return to Home</a></p>
+<p align="right"> - <a href="#home">Return to Home</a></p>
 
 
 <!-- How to Use -->
@@ -114,13 +114,13 @@ There's a save button on the far right of the time-block, allowing users to save
 
 As the data is saved on the local storage, it remains there throughout sessions or until user clears the data.
 
-<p align="right"> | <a href="#home">Return to Home</a></p>
+<p align="right"> - <a href="#home">Return to Home</a></p>
 
 ### Prerequisites
 
 Only a web brower is required to run the application.
 
-<p align="right"> | <a href="#home">Return to Home</a></p>
+<p align="right"> - <a href="#home">Return to Home</a></p>
 
 
 <!-- Contribuiting -->
@@ -128,7 +128,7 @@ Only a web brower is required to run the application.
 
 Contributions are much welcomed! If there are suggestions to make this application better, please fork the repo and create a pull request. You can also open an issue [here](https://img.shields.io/github/issues/richardguarnieri/work-day-scheduler?style=for-the-badge) and tag it with the **"enhancement"** label.
 
-<p align="right"> | <a href="#home">Return to Home</a></p>
+<p align="right"> - <a href="#home">Return to Home</a></p>
 
 
 <!-- License -->
@@ -136,7 +136,7 @@ Contributions are much welcomed! If there are suggestions to make this applicati
 
 This project is licensed under the terms of the MIT license. See `LICENSE` for more information.
 
-<p align="right"> | <a href="#home">Return to Home</a></p>
+<p align="right"> - <a href="#home">Return to Home</a></p>
 
 
 <!-- Contact -->
@@ -146,7 +146,7 @@ Richard Guarnieri: richard.gm@outlook.com.com · LinkedIn: [rguarnieri](https://
 
 Application URL: [https://github.com/richardguarnieri/work-day-scheduler](https://github.com/richardguarnieri/work-day-scheduler)
 
-<p align="right"> | <a href="#home">Return to Home</a></p>
+<p align="right"> - <a href="#home">Return to Home</a></p>
 
 
 <!-- Miscellaneous -->
@@ -174,7 +174,7 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-<p align="right"> | <a href="#home">Return to Home</a></p>
+<p align="right"> - <a href="#home">Return to Home</a></p>
 
 
 <!-- References, Links and Images -->
