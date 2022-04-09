@@ -134,7 +134,7 @@ Contributions are much welcomed! If there are suggestions to make this applicati
 <!-- License -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the terms of the MIT license. See `LICENSE` for more information.
 
 <p align="right"> | <a href="#home">Return to Home</a></p>
 
