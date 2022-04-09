@@ -50,14 +50,18 @@ Twitter Username: `ric_guarnieri`
         <img src="./img/logo.png" alt="Logo" width="300" height="auto">
     </a>
     <h1 align="center">Work Day Scheduler</h1>
-    <h3>A simple calendar application!</h3>
-    <a href="https://github.com/richardguarnieri/work-day-scheduler">
-        <strong>Explore Documentation</strong>
-    </a>
-    <br>
-    <a href="https://github.com/richardguarnieri/work-day-scheduler">View Demo</a>
-    ·
-    <a href="https://github.com/richardguarnieri/work-day-scheduler/issues">Report Bug / Request Feature</a>
+    <div>
+        A simple calendar application!
+        <br>
+        <a href="https://github.com/richardguarnieri/work-day-scheduler">
+            <strong>Explore Documentation</strong>
+        </a>
+        <br>
+        <br>
+        <a href="https://github.com/richardguarnieri/work-day-scheduler">View Demo</a>
+        ·
+        <a href="https://github.com/richardguarnieri/work-day-scheduler/issues">Report Bug / Request Feature</a>
+    </div>
 </div>
 <br>
 
