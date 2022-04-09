@@ -85,7 +85,7 @@ Twitter Username: `ric_guarnieri`
 <!-- The Project -->
 ## The Project
 
-[![Application Image][application-image]](https://example.com)
+[![Application Image][application-image]](https://richardguarnieri.github.io/work-day-scheduler/)
 
 In this deployed responsive application you will find a simple calendar application that allows a user to save events for each standard working hour of the day.
 
@@ -148,7 +148,7 @@ This project is licensed under the terms of the MIT license. See `LICENSE` for m
 
 Richard Guarnieri: richard.gm@outlook.com.com · LinkedIn: [rguarnieri](https://linkedin.com/in/rguarnieri) · Twitter: [@ric_guarnieri](https://twitter.com/ric_guarnieri)
 
-Application URL: [https://github.com/richardguarnieri/work-day-scheduler](https://github.com/richardguarnieri/work-day-scheduler)
+Application URL: [https://richardguarnieri.github.io/work-day-scheduler/](https://richardguarnieri.github.io/work-day-scheduler/)
 
 <p align="right"> - <a href="#home">Return to Home</a></p>
 
