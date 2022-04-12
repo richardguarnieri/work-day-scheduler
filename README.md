@@ -5,7 +5,7 @@
 * Windows: CRTL + Shift + L
 
 GitHub Username: `richardguarnieri`
-GitHub Repository: `readme-template`
+GitHub Repository: `work-day-scheduler`
 Your Name: `Richard Guarnieri`
 Email: `richard.gm@outlook.com`
 LinkedIn Username: `rguarnieri`
@@ -25,23 +25,23 @@ Project Description: `A simple calendar app for scheduling your work day!`
 <!-- These were created using https://shields.io/ - feel free to replace / create yours by modifying links below: -->
 
 <div align="center">
-    <a href="https://github.com/richardguarnieri/readme-template/graphs/contributors">
-        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/richardguarnieri/readme-template?style=for-the-badge">
+    <a href="https://github.com/richardguarnieri/work-day-scheduler/graphs/contributors">
+        <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/richardguarnieri/work-day-scheduler?style=for-the-badge">
     <a>
-     <a href="https://github.com/richardguarnieri/readme-template/network/members">
-        <img alt="GitHub forks" src="https://img.shields.io/github/forks/richardguarnieri/readme-template?style=for-the-badge">
+     <a href="https://github.com/richardguarnieri/work-day-scheduler/network/members">
+        <img alt="GitHub forks" src="https://img.shields.io/github/forks/richardguarnieri/work-day-scheduler?style=for-the-badge">
     <a>
-     <a href="https://github.com/richardguarnieri/readme-template/stargazers">
-        <img alt="GitHub stars" src="https://img.shields.io/github/stars/richardguarnieri/readme-template?style=for-the-badge">
+     <a href="https://github.com/richardguarnieri/work-day-scheduler/stargazers">
+        <img alt="GitHub stars" src="https://img.shields.io/github/stars/richardguarnieri/work-day-scheduler?style=for-the-badge">
     <a>
-     <a href="https://github.com/richardguarnieri/readme-template/issues">
-        <img alt="GitHub issues" src="https://img.shields.io/github/issues/richardguarnieri/readme-template?style=for-the-badge">
+     <a href="https://github.com/richardguarnieri/work-day-scheduler/issues">
+        <img alt="GitHub issues" src="https://img.shields.io/github/issues/richardguarnieri/work-day-scheduler?style=for-the-badge">
     <a>
-     <a href="https://github.com/richardguarnieri/readme-template/blob/main/LICENSE">
-        <img alt="GitHub license" src="https://img.shields.io/github/license/richardguarnieri/readme-template?label=license&style=for-the-badge">
+     <a href="https://github.com/richardguarnieri/work-day-scheduler/blob/main/LICENSE">
+        <img alt="GitHub license" src="https://img.shields.io/github/license/richardguarnieri/work-day-scheduler?label=license&style=for-the-badge">
     <a>
-     <a href="https://github.com/richardguarnieri/readme-template/commits/main">
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/richardguarnieri/readme-template?style=for-the-badge">
+     <a href="https://github.com/richardguarnieri/work-day-scheduler/commits/main">
+        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/richardguarnieri/work-day-scheduler?style=for-the-badge">
     <a>
     <a href="https://www.linkedin.com/in/rguarnieri/">
         <img alt="LinkedIn shield" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555">
@@ -53,21 +53,21 @@ Project Description: `A simple calendar app for scheduling your work day!`
 <!-- Header -->
 
 <div align="center">
-    <a href="https://github.com/richardguarnieri/readme-template">
+    <a href="https://github.com/richardguarnieri/work-day-scheduler">
         <img src="./img/logo.png" alt="Logo" width="300" height="auto">
     </a>
     <h1 align="center">Work Day Scheduler</h1>
     <div>
         A simple calendar app for scheduling your work day!
         <br>
-        <a href="https://github.com/richardguarnieri/readme-template">
+        <a href="https://github.com/richardguarnieri/work-day-scheduler">
             <strong>Explore Documentation</strong>
         </a>
         <br>
         <br>
-        <a href="https://github.com/richardguarnieri/readme-template">View Demo</a>
+        <a href="https://github.com/richardguarnieri/work-day-scheduler">View Demo</a>
         ·
-        <a href="https://github.com/richardguarnieri/readme-template/issues">Report Bug / Request Feature</a>
+        <a href="https://github.com/richardguarnieri/work-day-scheduler/issues">Report Bug / Request Feature</a>
     </div>
 </div>
 <br>
@@ -195,22 +195,22 @@ THEN the saved events persist
 
 <!-- References, Links and Images -->
 <!-- Badges / Shields Styles -->
-[github-contributors-shield]: https://img.shields.io/github/contributors/richardguarnieri/readme-template?style=for-the-badge
-[github-forks-shield]: https://img.shields.io/github/forks/richardguarnieri/readme-template?style=for-the-badge
-[github-stars-shield]: https://img.shields.io/github/stars/richardguarnieri/readme-template?style=for-the-badge
-[github-issues-shield]: https://img.shields.io/github/issues/richardguarnieri/readme-template?style=for-the-badge
-[github-license-shield]: https://img.shields.io/github/license/richardguarnieri/readme-template?style=for-the-badge
-[github-last-commit-shield]: https://img.shields.io/github/last-commit/richardguarnieri/readme-template?style=for-the-badge
+[github-contributors-shield]: https://img.shields.io/github/contributors/richardguarnieri/work-day-scheduler?style=for-the-badge
+[github-forks-shield]: https://img.shields.io/github/forks/richardguarnieri/work-day-scheduler?style=for-the-badge
+[github-stars-shield]: https://img.shields.io/github/stars/richardguarnieri/work-day-scheduler?style=for-the-badge
+[github-issues-shield]: https://img.shields.io/github/issues/richardguarnieri/work-day-scheduler?style=for-the-badge
+[github-license-shield]: https://img.shields.io/github/license/richardguarnieri/work-day-scheduler?style=for-the-badge
+[github-last-commit-shield]: https://img.shields.io/github/last-commit/richardguarnieri/work-day-scheduler?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 <!-- Badges / Shields URL -->
-[github-contributors-url]: https://github.com/richardguarnieri/readme-template/graphs/contributors
-[github-forks-url]: https://github.com/richardguarnieri/readme-template/network/members
-[github-stars-url]: https://github.com/richardguarnieri/readme-template/stargazers
-[github-issues-url]: https://github.com/richardguarnieri/readme-template/issues
-[github-license-url]: https://github.com/richardguarnieri/readme-template/blob/main/LICENSE
+[github-contributors-url]: https://github.com/richardguarnieri/work-day-scheduler/graphs/contributors
+[github-forks-url]: https://github.com/richardguarnieri/work-day-scheduler/network/members
+[github-stars-url]: https://github.com/richardguarnieri/work-day-scheduler/stargazers
+[github-issues-url]: https://github.com/richardguarnieri/work-day-scheduler/issues
+[github-license-url]: https://github.com/richardguarnieri/work-day-scheduler/blob/main/LICENSE
 [linkedin-url]: https://linkedin.com/in/rguarnieri
 
 <!-- Non Badge / Shield Reference Links -->
-[documentation-url]: https://github.com/richardguarnieri/readme-template
+[documentation-url]: https://github.com/richardguarnieri/work-day-scheduler
 [twitter-url]: https://twitter.com/ric_guarnieri
